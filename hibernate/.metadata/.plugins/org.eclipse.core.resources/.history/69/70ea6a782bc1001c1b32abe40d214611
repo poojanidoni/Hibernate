@@ -1,0 +1,10 @@
+package restarunant;
+
+
+public class RestarunantEntity {
+
+	private int restarunantId;
+	private long contactNo;
+	private char name;
+
+}

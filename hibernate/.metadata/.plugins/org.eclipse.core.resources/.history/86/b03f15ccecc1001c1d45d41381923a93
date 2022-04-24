@@ -1,0 +1,15 @@
+package com.xworkz.apartmentDAO;
+
+import com.xwrokz.apartment.ApartmentDTO;
+
+public class ApartmentDAO {
+	 
+	ApartmentDTO apartment=new ApartmentDTO();
+	
+	public void saveApartment(ApartmentDTO dto) {
+		apartment.getId();
+		apartment.getName();
+		
+	}
+
+}

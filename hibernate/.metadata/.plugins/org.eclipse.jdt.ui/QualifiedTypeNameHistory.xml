@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="lombok.Data"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.Entity"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.Table"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.Id"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.Column"/>
+    <fullyQualifiedTypeName name="com.mysql.cj.xdevapi.SessionFactory"/>
+    <fullyQualifiedTypeName name="com.mysql.cj.Session"/>
+    <fullyQualifiedTypeName name="jakarta.transaction.Transaction"/>
+    <fullyQualifiedTypeName name="java.lang.module.Configuration"/>
+    <fullyQualifiedTypeName name="com.xwrokz.apartment.ApartmentDTO"/>
+    <fullyQualifiedTypeName name="java.sql.Connection"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="com.xworkz.DB.DTO"/>
+    <fullyQualifiedTypeName name="java.nio.file.Files"/>
+    <fullyQualifiedTypeName name="com.xworkz.files.Files"/>
+</qualifiedTypeNameHistroy>

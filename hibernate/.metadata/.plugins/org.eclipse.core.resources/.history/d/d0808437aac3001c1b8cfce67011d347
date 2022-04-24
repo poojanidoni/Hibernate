@@ -1,0 +1,11 @@
+package com.xworkz.tester;
+
+import com.xworkz.DB.DTO;
+
+public class Tester {
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		DTO ap=new DTo();
+		ap.readData();
+	}
+}

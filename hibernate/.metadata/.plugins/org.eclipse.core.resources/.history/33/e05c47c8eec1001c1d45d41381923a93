@@ -1,0 +1,28 @@
+package com.xworkz.apartmentDAO;
+
+import java.util.ArrayList;
+
+import com.xwrokz.apartment.ApartmentDTO;
+
+public class ApartmentDAO {
+	 
+	ApartmentDTO apartment=new ApartmentDTO();
+	ArrayList list=new ArrayList(); 
+	public void saveApartment(ApartmentDTO dto) {
+		apartment.getId();
+		apartment.getName();
+		apartment.getNoOfFlats();
+		apartment.getPrice();
+		
+	}
+	public void  getNoOfFlatsByName(String name) {
+		
+	}
+	public void deleteByPrice(float price) {
+		
+	}
+	public void updatePriceByName(float price,String name) {
+		
+	}
+
+}

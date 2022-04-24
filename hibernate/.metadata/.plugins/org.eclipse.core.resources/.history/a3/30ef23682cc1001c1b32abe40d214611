@@ -1,0 +1,15 @@
+package com.xworkz.RestarunantDAO;
+
+public class RestarunantDAO {
+public static void saveRestarunantEntity entity
+ Confriguration cfg=new Confriguration();
+cfg.configure();
+
+sessionFactory sessionFactory=cfg.buidsession
+
+session session=sessionFactory.openSession
+Transaction tx=session.beginTransction();
+
+session.persist(entity);
+tx.commit();
+}
